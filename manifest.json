@@ -1,8 +1,8 @@
 {
-  "versionCode": 100,
-  "versionName": "1.0",
-  "apkUrl": "https://github.com/fluxtvapp/tunnel-tv-releases/releases/download/1.0/tunnel-1.0.apk",
-  "sha256": "51a175ba7e31834cbd8f3753682567ba685c7b3e76383b33c846fe110276b424",
-  "changelog": "Первая версия tunnel: фильмы и сериалы с привычных сайтов в одном удобном интерфейсе для телевизора. Настройки, самообновление, выбор языка — українська, русский, English.",
+  "versionCode": 101,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/fluxtvapp/tunnel-tv-releases/releases/download/1.1/tunnel-1.1.apk",
+  "sha256": "e2e1c014e1c6bd8833d54ee7ff1c3cdcdac0928d29621f03da107a61d2c9378b",
+  "changelog": "Home is now in rows: featured picks and a row for each category, each with "All". New card: poster background, full description via the "More" button. More sites now stream and show all episodes — doramy.club, dorama.land, lostfilms, kinobase, kinokrad, yummyanime, rezka-ua, and more.",
   "minSupported": 1
 }
