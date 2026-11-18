@@ -3,6 +3,6 @@
   "versionName": "1.1",
   "apkUrl": "https://github.com/fluxtvapp/tunnel-tv-releases/releases/download/1.1/tunnel-1.1.apk",
   "sha256": "e2e1c014e1c6bd8833d54ee7ff1c3cdcdac0928d29621f03da107a61d2c9378b",
-  "changelog": "Home is now in rows: featured picks and a row for each category, each with "All". New card: poster background, full description via the "More" button. More sites now stream and show all episodes — doramy.club, dorama.land, lostfilms, kinobase, kinokrad, yummyanime, rezka-ua, and more.",
+  "changelog": "Home is now in rows: featured picks and a row for each category, each with “All”. New card: poster background, full description via the “More” button. More sites now stream and show all episodes — doramy.club, dorama.land, lostfilms, kinobase, kinokrad, yummyanime, rezka-ua, and more.",
   "minSupported": 1
 }
