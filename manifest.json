@@ -1,8 +1,8 @@
 {
-  "versionCode": 101,
-  "versionName": "1.1",
-  "apkUrl": "https://github.com/fluxtvapp/tunnel-tv-releases/releases/download/1.1/tunnel-1.1.apk",
-  "sha256": "e2e1c014e1c6bd8833d54ee7ff1c3cdcdac0928d29621f03da107a61d2c9378b",
-  "changelog": "Home is now in rows: featured picks and a row for each category, each with “All”. New card: poster background, full description via the “More” button. More sites now stream and show all episodes — doramy.club, dorama.land, lostfilms, kinobase, kinokrad, yummyanime, rezka-ua, and more.",
+  "versionCode": 102,
+  "versionName": "1.2",
+  "apkUrl": "https://github.com/fluxtvapp/tunnel-tv-releases/releases/download/1.2/tunnel-1.2.apk",
+  "sha256": "20f804f080bd4fcaba54e3e46ea3b32e48022200c529a67181bf22f4795221a5",
+  "changelog": "Fixed a crash when adding a site on Android 9 with an old WebView. History: remove a title with a long press of OK, or clear it all.",
   "minSupported": 1
 }
